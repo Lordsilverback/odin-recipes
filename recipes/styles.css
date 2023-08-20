@@ -1,0 +1,40 @@
+/* containter's and junk */
+
+body{
+    background-color: powderblue;
+    align-self: auto;
+    text-align: justify;
+    font-size: 20px;
+}
+
+div{
+    background-color: lightgrey;
+    font-size: 22px;
+    align-self: center;
+    text-emphasis: bold;
+    text-align: justify;
+}
+
+img{
+    height: auto;
+    width: auto;
+    justify-content: center;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    align-self: center;
+    text-align: left;
+
+}
+
+#list_container{
+    background-color: lightslategrey;
+    border: 2px;
+    border-radius: 30%;
+    height: auto;
+    width: auto;
+    text-align: justify;
+}
+
